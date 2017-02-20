@@ -70,3 +70,6 @@
 	- 设置 AdServer 上下文指针，这个过程调用 `App->setAdServerContext` 方法，用户可以在该方法中设置传递给 Server 线程的变量指针，用来关联 RPC 服务数据源
 	- 初始化启动 AdServer, 该过程是通过配置文件，默认骨架代码包含 Http/Memcache/Adhead Server的实现，可以根据需求在配置文件中配置要启动的 Server
 	- 初始化定时器, 如果需要定义定时器，将在这个过程中初始化
+
+
+### 骨架代码配置
