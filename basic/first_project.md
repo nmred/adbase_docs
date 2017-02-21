@@ -4,6 +4,8 @@
 
 为了让大家跟好的入门 Adbase 的开发，我们采用一个完整的例子逐步的讲解开发过程。以开发一个多模匹配服务为例
 
+[全部源代码](https://github.com/weiboad/adbase_case/tree/master/pattern)
+
 #### 多模匹配服务
 
 在实际业务开发中可能需要用到一个高性能的匹配服务，用来做关键词过滤等功能。本例中采用 Wu-Manber 多模匹配算法来实现匹配服务，具体的 Wu-Manber 算法实现细节大家没有必要深入研究，感兴趣的可以参考[Wu-Manber](https://memorycn.wordpress.com/2011/11/05/matching_algorithm_-_wu-manber_algorithm_based_on_the_the_suffix_search_of_multi-mode/)，本例子重点是利用这个应用场景来详细的讲解基于 Adbase 开发后端服务

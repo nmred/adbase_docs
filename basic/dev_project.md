@@ -139,6 +139,7 @@ class WuManber {
 
 #endif
 ```
+
 [GITHUB代码段](https://github.com/weiboad/adbase_case/blob/master/pattern/src/app/WuManber.hpp)
 
 ```cpp
