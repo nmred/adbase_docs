@@ -24,14 +24,20 @@
     * [日志](adbase/logging.md)
     * [配置解析](adbase/config.md)
     * [基础工具库](adbase/utility.md)
+		- [Buffer](adbase/buffer.md)
+		- [日期 & 时间](adbase/date_time.md)
+		- [队列](adbase/queue.md)
+		- [字符串相关](adbase/sha1.md)
+		- [系统进程相关](adbase/sha1.md)
+		- [Sha1](adbase/sha1.md)
+		- [Enbian](adbase/endian.md)
+		- [序列号生成](adbase/sequence.md)
     * [网络库](adbase/net.md)
     * [Adhead 协议](adbase/adhead.md)
     * [Http Server](adbase/http_server.md)
     * [Memcache Server](adbase/memcache_server.md)
     * [度量工具库](adbase/metrics.md)
     * [案例](adbase/example.md)
-* [部署]
+* [部署](deploy.md)
 * [案例](case.md)
 * [FQA](fqa.md)
-* [附录]
-
