@@ -10,7 +10,7 @@
 		- [开发项目](basic/dev_project.md)
 		- [打包部署](basic/build.md)
 
-* [快速开发模型(AdbaseSeed)]
+* [快速开发模型(AdbaseSeed)](adbase_seed.md)
     * [C++ 常用模型抽象](seed/abstract.md)
     * [HTTP Server](seed/http_server.md)
     * [Memcache Server](seed/memcache_server.md)
@@ -20,18 +20,18 @@
     * [高级开发](seed/advanced.md)
     * [样例](seed/example.md)
 
-* [Adbase 模块]
+* [Adbase 模块](adbase.md)
+    * [日志](adbase/logging.md)
     * [配置解析](adbase/config.md)
     * [基础工具库](adbase/utility.md)
     * [网络库](adbase/net.md)
     * [Adhead 协议](adbase/adhead.md)
     * [Http Server](adbase/http_server.md)
     * [Memcache Server](adbase/memcache_server.md)
-    * [日志](adbase/logging.md)
     * [度量工具库](adbase/metrics.md)
     * [案例](adbase/example.md)
 * [部署]
-* [案例]
+* [案例](case.md)
 * [FQA](fqa.md)
 * [附录]
 
